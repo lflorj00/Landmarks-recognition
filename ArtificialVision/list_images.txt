@@ -1,0 +1,10 @@
+data/oxford5k_images/hertford_000056.jpg
+data/oxford5k_images/oxford_000317.jpg
+data/oxford5k_images/christ_church_000258.jpg
+data/oxford5k_images/christ_church_000259.jpg
+data/oxford5k_images/cornmarket_000027.jpg
+data/oxford5k_images/cornmarket_000030.jpg
+data/oxford5k_images/keble_000014.jpg
+data/oxford5k_images/all_souls_000006.jpg
+data/oxford5k_images/pitt_rivers_000087.jpg
+data/oxford5k_images/radcliffe_camera_000004.jpg

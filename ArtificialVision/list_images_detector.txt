@@ -1,0 +1,7 @@
+data/oxford5k_images/all_souls_000002.jpg
+data/oxford5k_images/all_souls_000035.jpg
+data/oxford5k_images/bodleian_000083.jpg
+data/oxford5k_images/keble_000014.jpg
+data/oxford5k_images/oxford_002070.jpg
+data/oxford5k_images/pitt_rivers_000087.jpg
+data/oxford5k_images/radcliffe_camera_000004.jpg
