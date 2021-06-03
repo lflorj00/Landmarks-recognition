@@ -67,9 +67,6 @@ Steps to extracts and matching features:
         --features_1_path data/oxford5k_features/hertford_000056.delf \
         --features_2_path data/oxford5k_features/oxford_000317.delf \
         --output_image matched_images.png
-        
-        ![matched_images2](https://user-images.githubusercontent.com/25979135/120690870-0d331980-c4a6-11eb-9cab-c87b46dfaabe.png)
-
-    
-
-    
+   
+   
+   
